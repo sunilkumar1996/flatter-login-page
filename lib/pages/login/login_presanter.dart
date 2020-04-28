@@ -4,7 +4,7 @@ import 'package:fluttersqflite/models/user.dart';
 abstract class LoginPageContract{
   void onLoginSuccess(User user);
   void onLoginError(String error);
-  
+   
 }
 
 class LoginPagePresenter{

@@ -109,5 +109,6 @@ class _LoginPageState extends State<LoginPage> implements LoginPageContract{
     });
     var db = new DatabaseHelper();
     await db.saveUser(user);
+    Navigator.of(context).pushNamed("/home");
   }
 }

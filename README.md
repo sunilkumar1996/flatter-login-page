@@ -1,10 +1,9 @@
 # fluttersqflite
 
-## Export path 
+# First Export Path
+# export PATH="$PATH:`pwd`/flutter/bin"
 
-export PATH="$PATH:`pwd`/flutter/bin"
-
-
+# @home$:~/flutter doctor
 A new Flutter project.
 
 ## Getting Started

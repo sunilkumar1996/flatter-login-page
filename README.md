@@ -1,5 +1,10 @@
 # fluttersqflite
 
+## Export path 
+
+export PATH="$PATH:`pwd`/flutter/bin"
+
+
 A new Flutter project.
 
 ## Getting Started

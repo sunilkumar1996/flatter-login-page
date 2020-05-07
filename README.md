@@ -6,7 +6,11 @@
 ### @home$:~/flutter doctor
 A new Flutter project.
 
-## git clone https://github.com/sunilkumar1996/flatter-login-page.git
+#### :$~/ git clone https://github.com/sunilkumar1996/flatter-login-page.git
+
+#### :$~/ cd flutter-login-page
+
+#### :$~/ flutter run 
 
 ## Getting Started
 
